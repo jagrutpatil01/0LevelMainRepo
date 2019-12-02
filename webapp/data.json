@@ -1,0 +1,68 @@
+[
+ {
+   "ProductId": "PD1",
+   "Name": "Tractor A",
+   "Category": "Heavy",
+   "SupplierName": "JD",
+   "Description": "JohnDeere",
+   "WeightMeasure": 2,
+   "WeightUnit": "Ton",
+   "Price": 125555,
+   "CurrencyCode": "$"
+ },
+ {
+   "ProductId": "PD2",
+   "Name": "Tractor A",
+   "Category": "Heavy",
+   "SupplierName": "JD",
+   "Description": "JohnDeere",
+   "WeightMeasure": 3,
+   "WeightUnit": "Ton",
+   "Price": 125556,
+   "CurrencyCode": "$"
+ },
+ {
+   "ProductId": "PD3",
+   "Name": "Tractor A",
+   "Category": "Heavy",
+   "SupplierName": "JD",
+   "Description": "JohnDeere",
+   "WeightMeasure": 4,
+   "WeightUnit": "Ton",
+   "Price": 125557,
+   "CurrencyCode": "$"
+ },
+ {
+   "ProductId": "PD4",
+   "Name": "Tractor A",
+   "Category": "Heavy",
+   "SupplierName": "JD",
+   "Description": "JohnDeere",
+   "WeightMeasure": 5,
+   "WeightUnit": "Ton",
+   "Price": 125558,
+   "CurrencyCode": "$"
+ },
+ {
+   "ProductId": "PD5",
+   "Name": "Tractor A",
+   "Category": "Heavy",
+   "SupplierName": "JD",
+   "Description": "JohnDeere",
+   "WeightMeasure": 6,
+   "WeightUnit": "Ton",
+   "Price": 125559,
+   "CurrencyCode": "$"
+ },
+ {
+   "ProductId": "PD6",
+   "Name": "Tractor A",
+   "Category": "Heavy",
+   "SupplierName": "JD",
+   "Description": "JohnDeere",
+   "WeightMeasure": 7,
+   "WeightUnit": "Ton",
+   "Price": 125560,
+   "CurrencyCode": "$"
+ }
+]

@@ -1,0 +1,19 @@
+{
+	"oTemp0" : {
+		"field1":"ProductId",
+		"field2":"Name",
+		"field3":"Category",
+		"field4":"SupplierName"
+	},
+	"oTemp1" : {
+		"field1":"SupplierName",
+		"field2":"Description",
+		"field3":"WeightMeasure"
+	},
+	"oTemp2" : {
+		"field1":"WeightUnit",
+		"field2":"Price",
+		"field3":"CurrencyCode"
+	}
+	
+}

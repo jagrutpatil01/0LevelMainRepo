@@ -1,0 +1,28 @@
+<mvc:View controllerName="nDynTable.DynTable.controller.DynTableController" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m"
+	xmlns:core="sap.ui.core" xmlns:l="sap.ui.layout.form" xmlns:u="sap.ui.unified">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<content>
+						<l:SimpleForm editable="true">
+							<l:content>
+								<Label text="Select the table for display"></Label>
+								<VBox>
+									<RadioButtonGroup id="RBG" columns="3" class="sapUiMediumMarginBottom" select="onRadioButtonSelect">
+										<buttons>
+											<RadioButton id="RB-1" text="Header Details"/>
+											<RadioButton id="RB-2" text="Item details"/>
+											<RadioButton id="RB-3" text="Other details"/>
+										</buttons>
+									</RadioButtonGroup>
+								</VBox>
+							</l:content>
+						</l:SimpleForm>
+						<Table id="idTable"></Table>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
